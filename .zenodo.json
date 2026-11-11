@@ -3,7 +3,17 @@
   "upload_type": "publication",
   "publication_type": "article",
   "description": "Over any field of characteristic zero, the Makar-Limanov invariant of a domain coincides with its slice version whenever the latter has transcendence degree at most one or one less than that of the domain. In dimension three this settles a question of Dasgupta and Gupta, which had been answered only over algebraically closed fields. LaTeX source, figures and PDF.",
-  "creators": [{"name": "Bhattacharjee, Deep", "orcid": "0000-0003-0466-750X"}],
-  "keywords": ["locally nilpotent derivation", "Makar-Limanov invariant", "slice"],
-  "license": "MIT"
+  "creators": [
+    {
+      "name": "Bhattacharjee, Deep",
+      "orcid": "0000-0003-0466-750X"
+    }
+  ],
+  "keywords": [
+    "locally nilpotent derivation",
+    "Makar-Limanov invariant",
+    "slice"
+  ],
+  "license": "MIT",
+  "version": "1.0.0"
 }
